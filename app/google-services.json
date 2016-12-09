@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957565095840",
+    "firebase_url": "https://testcloudmessages-249ce.firebaseio.com",
+    "project_id": "testcloudmessages-249ce",
+    "storage_bucket": "testcloudmessages-249ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957565095840:android:46788bcf3a4343a3",
+        "android_client_info": {
+          "package_name": "com.example.user.firebasecloudmessagingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957565095840-amusbo5r7044goi3jniafeo3u65do82e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4c6ajQq3kCbgDf8uSNrwDpc-G-ogU_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
