@@ -7,5 +7,6 @@
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="forgot_password">Forgot Password</string>
+    <string name="google_client_id">750328614958-2v08763ent4sq3i50lg81n1t95c74vhs.apps.googleusercontent.com</string>
 
 </resources>

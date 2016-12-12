@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "957565095840",
-    "firebase_url": "https://testcloudmessages-249ce.firebaseio.com",
-    "project_id": "testcloudmessages-249ce",
-    "storage_bucket": "testcloudmessages-249ce.appspot.com"
+    "project_number": "750328614958",
+    "firebase_url": "https://cloudmessage-db9d1.firebaseio.com",
+    "project_id": "cloudmessage-db9d1",
+    "storage_bucket": "cloudmessage-db9d1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:957565095840:android:46788bcf3a4343a3",
+        "mobilesdk_app_id": "1:750328614958:android:46788bcf3a4343a3",
         "android_client_info": {
           "package_name": "com.example.user.firebasecloudmessagingtest"
         }
       },
       "oauth_client": [
         {
-          "client_id": "957565095840-amusbo5r7044goi3jniafeo3u65do82e.apps.googleusercontent.com",
+          "client_id": "750328614958-2v08763ent4sq3i50lg81n1t95c74vhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.firebasecloudmessagingtest",
+            "certificate_hash": "3B6E05CD5C8F637D7A22EF045D41929311733ED8"
+          }
+        },
+        {
+          "client_id": "750328614958-18118k343eu7endvmicukueb78l6bdi7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBa4c6ajQq3kCbgDf8uSNrwDpc-G-ogU_Y"
+          "current_key": "AIzaSyDYD2J1R_fulEXSSZ3GjFSGz0rVkQFktX4"
         }
       ],
       "services": {
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750328614958-18118k343eu7endvmicukueb78l6bdi7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750328614958-ffvs2s2fu7bk22rn6pj3588ju5i6e2g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sk.cloudmessage"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
