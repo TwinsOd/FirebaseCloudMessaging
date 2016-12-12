@@ -15,7 +15,7 @@ public class LoginActivity extends AppCompatActivity {
         if (getIntent().getExtras() != null) {
             for (String key : getIntent().getExtras().keySet()) {
                 Object value = getIntent().getExtras().get(key);
-                Log.d(TAG, "Key: " + key + " Value: " + value);
+                Log.d(TAG, "__Key: " + key + " Value: " + value);
             }
         }
     }
