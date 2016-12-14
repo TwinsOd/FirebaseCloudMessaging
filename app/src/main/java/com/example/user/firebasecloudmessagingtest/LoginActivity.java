@@ -93,7 +93,6 @@ public class LoginActivity extends AppCompatActivity implements
             Log.d(TAG, "handleSignInResult:" + result.getStatus().toString());
             if (result.isSuccess()) {
                 // Google Sign In was successful, authenticate with Firebase
-                Log.d(TAG, "result.getSignInAccount().getIdToken() = " + result.getSignInAccount().getIdToken());
                 GoogleSignInAccount account = result.getSignInAccount();
                 firebaseAuthWithGoogle(account);
                 startMainActivity();
