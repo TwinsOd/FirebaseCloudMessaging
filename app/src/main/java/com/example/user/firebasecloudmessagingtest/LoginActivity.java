@@ -63,7 +63,6 @@ public class LoginActivity extends AppCompatActivity implements
 
         // Configure Google Sign In
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-//                .requestIdToken(getString(R.string.google_client_id))
                 .requestIdToken("750328614958-18118k343eu7endvmicukueb78l6bdi7.apps.googleusercontent.com")
                 .requestEmail()
                 .build();
@@ -124,7 +123,6 @@ public class LoginActivity extends AppCompatActivity implements
                             Toast.makeText(LoginActivity.this, "Authentication failed.",
                                     Toast.LENGTH_SHORT).show();
                         }
-                        // ...
                     }
                 });
     }
